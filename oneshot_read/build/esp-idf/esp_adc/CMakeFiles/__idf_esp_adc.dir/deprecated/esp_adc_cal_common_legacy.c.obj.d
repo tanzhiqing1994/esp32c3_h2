@@ -1,0 +1,33 @@
+esp-idf/esp_adc/CMakeFiles/__idf_esp_adc.dir/deprecated/esp_adc_cal_common_legacy.c.obj: \
+ D:/TOOL/vs_esp_idf/container/v5.3.1/esp-idf/components/esp_adc/deprecated/esp_adc_cal_common_legacy.c \
+ D:/TOOL/vs_esp_idf/Tools/tools/riscv32-esp-elf/esp-13.2.0_20240530/riscv32-esp-elf/lib/gcc/riscv32-esp-elf/13.2.0/include/stdint.h \
+ D:/TOOL/vs_esp_idf/Tools/tools/riscv32-esp-elf/esp-13.2.0_20240530/riscv32-esp-elf/riscv32-esp-elf/include/stdint.h \
+ D:/TOOL/vs_esp_idf/Tools/tools/riscv32-esp-elf/esp-13.2.0_20240530/riscv32-esp-elf/riscv32-esp-elf/include/machine/_default_types.h \
+ D:/TOOL/vs_esp_idf/Tools/tools/riscv32-esp-elf/esp-13.2.0_20240530/riscv32-esp-elf/riscv32-esp-elf/include/sys/features.h \
+ D:/TOOL/vs_esp_idf/Tools/tools/riscv32-esp-elf/esp-13.2.0_20240530/riscv32-esp-elf/riscv32-esp-elf/include/_newlib_version.h \
+ D:/TOOL/vs_esp_idf/Tools/tools/riscv32-esp-elf/esp-13.2.0_20240530/riscv32-esp-elf/riscv32-esp-elf/include/sys/_intsup.h \
+ D:/TOOL/vs_esp_idf/Tools/tools/riscv32-esp-elf/esp-13.2.0_20240530/riscv32-esp-elf/riscv32-esp-elf/include/sys/_stdint.h \
+ D:/TOOL/vs_esp_idf/Tools/tools/riscv32-esp-elf/esp-13.2.0_20240530/riscv32-esp-elf/riscv32-esp-elf/include/string.h \
+ D:/TOOL/vs_esp_idf/Tools/tools/riscv32-esp-elf/esp-13.2.0_20240530/riscv32-esp-elf/riscv32-esp-elf/include/_ansi.h \
+ D:/TOOL/vs_esp_idf/Tools/tools/riscv32-esp-elf/esp-13.2.0_20240530/riscv32-esp-elf/riscv32-esp-elf/include/newlib.h \
+ D:/TOOL/vs_esp_idf/Tools/tools/riscv32-esp-elf/esp-13.2.0_20240530/riscv32-esp-elf/riscv32-esp-elf/include/sys/config.h \
+ D:/TOOL/vs_esp_idf/Tools/tools/riscv32-esp-elf/esp-13.2.0_20240530/riscv32-esp-elf/riscv32-esp-elf/include/machine/ieeefp.h \
+ D:/TOOL/vs_esp_idf/container/v5.3.1/esp-idf/components/newlib/platform_include/sys/reent.h \
+ D:/TOOL/vs_esp_idf/Tools/tools/riscv32-esp-elf/esp-13.2.0_20240530/riscv32-esp-elf/riscv32-esp-elf/include/sys/reent.h \
+ D:/TOOL/vs_esp_idf/Tools/tools/riscv32-esp-elf/esp-13.2.0_20240530/riscv32-esp-elf/riscv32-esp-elf/include/_ansi.h \
+ D:/TOOL/vs_esp_idf/Tools/tools/riscv32-esp-elf/esp-13.2.0_20240530/riscv32-esp-elf/lib/gcc/riscv32-esp-elf/13.2.0/include/stddef.h \
+ D:/TOOL/vs_esp_idf/Tools/tools/riscv32-esp-elf/esp-13.2.0_20240530/riscv32-esp-elf/riscv32-esp-elf/include/sys/_types.h \
+ D:/TOOL/vs_esp_idf/Tools/tools/riscv32-esp-elf/esp-13.2.0_20240530/riscv32-esp-elf/riscv32-esp-elf/include/machine/_types.h \
+ D:/TOOL/vs_esp_idf/container/v5.3.1/esp-idf/components/newlib/platform_include/sys/lock.h \
+ D:/TOOL/vs_esp_idf/Tools/tools/riscv32-esp-elf/esp-13.2.0_20240530/riscv32-esp-elf/riscv32-esp-elf/include/sys/lock.h \
+ D:/software/ESP32/IDF5_3/oneshot_read/build/config/sdkconfig.h \
+ D:/TOOL/vs_esp_idf/container/v5.3.1/esp-idf/components/newlib/platform_include/assert.h \
+ D:/TOOL/vs_esp_idf/Tools/tools/riscv32-esp-elf/esp-13.2.0_20240530/riscv32-esp-elf/riscv32-esp-elf/include/stdlib.h \
+ D:/TOOL/vs_esp_idf/Tools/tools/riscv32-esp-elf/esp-13.2.0_20240530/riscv32-esp-elf/riscv32-esp-elf/include/sys/cdefs.h \
+ D:/TOOL/vs_esp_idf/Tools/tools/riscv32-esp-elf/esp-13.2.0_20240530/riscv32-esp-elf/riscv32-esp-elf/include/machine/stdlib.h \
+ D:/TOOL/vs_esp_idf/Tools/tools/riscv32-esp-elf/esp-13.2.0_20240530/riscv32-esp-elf/riscv32-esp-elf/include/alloca.h \
+ D:/TOOL/vs_esp_idf/Tools/tools/riscv32-esp-elf/esp-13.2.0_20240530/riscv32-esp-elf/riscv32-esp-elf/include/sys/_locale.h \
+ D:/TOOL/vs_esp_idf/Tools/tools/riscv32-esp-elf/esp-13.2.0_20240530/riscv32-esp-elf/riscv32-esp-elf/include/assert.h \
+ D:/TOOL/vs_esp_idf/Tools/tools/riscv32-esp-elf/esp-13.2.0_20240530/riscv32-esp-elf/riscv32-esp-elf/include/strings.h \
+ D:/TOOL/vs_esp_idf/Tools/tools/riscv32-esp-elf/esp-13.2.0_20240530/riscv32-esp-elf/riscv32-esp-elf/include/sys/string.h \
+ D:/TOOL/vs_esp_idf/Tools/tools/riscv32-esp-elf/esp-13.2.0_20240530/riscv32-esp-elf/riscv32-esp-elf/include/inttypes.h

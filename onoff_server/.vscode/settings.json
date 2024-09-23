@@ -1,0 +1,36 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "files.associations": {
+    "mesh_model.h": "c",
+    "string.h": "c",
+    "stdio.h": "c",
+    "esp_log.h": "c",
+    "esp_ble_mesh_common_api.h": "c",
+    "esp_ble_mesh_defs.h": "c",
+    "esp_ble_mesh_provisioning_api.h": "c",
+    "esp_ble_mesh_networking_api.h": "c",
+    "esp_ble_mesh_config_model_api.h": "c",
+    "esp_ble_mesh_generic_model_api.h": "c",
+    "esp_ble_mesh_local_data_operation_api.h": "c",
+    "board.h": "c",
+    "ble_mesh_example_init.h": "c",
+    "stdbool.h": "c",
+    "bms.h": "c",
+    "uart_debug.h": "c",
+    "deep_sleep.h": "c",
+    "esp_sleep.h": "c",
+    "stdlib.h": "c",
+    "esp_wake_stub.h": "c",
+    "rtc_io.h": "c",
+    "task.h": "c",
+    "time.h": "c",
+    "sdkconfig.h": "c",
+    "freertos.h": "c"
+  },
+  "idf.adapterTargetName": "esp32c3",
+  "idf.openOcdConfigs": [
+    "board/esp32c3-builtin.cfg"
+  ],
+  "idf.portWin": "COM21",
+  "idf.flashType": "UART"
+}
